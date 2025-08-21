@@ -27,16 +27,16 @@ TagManager:
   - InternalUI
   - HardwareObjects
   - reserved4
-  - reserved3
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ice
+  - DOT
+  - Stun
+  - Poison
+  - Speed
+  - Rad
+  - Shield
+  - Heal
+  - Repair
+  - Fire
   m_SortingLayers:
   - name: Default
     uniqueID: 0
